@@ -1,4 +1,4 @@
-<img src="https://github.com/BagToad/Zendesk-Link-Collector/blob/d05f079bb994524c10e1cb0766ec593d7b3817d0/icons/zlc-icon-128x128.png" align="right">
+f600baddfb654fed611f15f7e305fa144d3a96c7<img src="https://github.com/BagToad/Zendesk-Link-Collector/blob/d05f079bb994524c10e1cb0766ec593d7b3817d0/icons/zlc-icon-128x128.png" align="right">
 
 # Zendesk Link Collector 
 
